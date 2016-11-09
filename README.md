@@ -1,1 +1,2 @@
 # smart-home
+采用Proteus模拟室内电子系统，Keil+52单片机编程与主控制器，C#编写串口调试助手进行上位机与电子系统数据通信，并存储室内每日各种数据到数据库，Java编写Wifi通信模块通过TCP进行Android-app与Proteus电子系统通信，进而控制与监视房屋状况。
